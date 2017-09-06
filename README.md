@@ -13,21 +13,6 @@ fork of the [Lanyon-Ghost](https://github.com/PxlBuzzard/lanyon-ghost) Theme.
 
 This theme is ideal for single author, tag heavy, looking for a simple design, with code highlighting. 
 
-### Updates
-- v1.0.4 (8 Jan 17)
-   - Add ability to config features
-   - Add tag sub menu
-- v1.0.3 (4 Jan 17)
-   - Support additional language for syntax highlighting (Go, Python, MD)
-- v1.0.2 (3 Dec 16)  
-   - Add next and previous post links to Post.hbs
-   - Open all external links in new tab
-- v1.0.1 (3 Dec 16)  
-   - Support for  [Ghost 0.11.3](https://dev.ghost.org/ghost-0-11-3/)  
-   - Added new [icons](http://ogem.co/blogiconmoon)
-- v1.0.0 (24 May 16)   
-   - Support for [Ghost 0.8.0](https://dev.ghost.org/ghost-0-8-0/
-
 ## Features
 - Configurable Features
 - Custom Navigation Menu ([#7](https://github.com/oscarmorrison/oscar-ghost/issues/7))
@@ -103,6 +88,10 @@ If you like the theme, and would like me to keep building cool free ghost themes
 [![Paypal Badge](http://blogoscarmorrison.s3.amazonaws.com/2016/May/PaypalBadgeSmall.png)](http://paypal.me/oscarmorrison)
 
 ## Author
+
+**Alan Mimms** (hacker of Oscar's work)
+- <https://github.com/alanmimms>
+- <https://twitter.com/alanmimms>
 
 **Oscar Morrison**
 - <https://github.com/oscarmorrison>
