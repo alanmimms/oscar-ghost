@@ -12,6 +12,10 @@
  */
 
 
+/* Our fonts */
+@import url(https://fonts.googleapis.com/css?family=Lato:700|Merriweather:300,300italic,700);
+
+
 /*
  * Global resets
  *
@@ -25,11 +29,13 @@ body {
 }
 
 html {
-  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-family: "Merriweather", serif;
+  font-weight: 300;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', Helvetica, sans-serif;
+  font-weight: 700;
   color: #313131;
   letter-spacing: -.025rem;
 }
@@ -91,6 +97,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #505050;
 }
 .masthead-title small {
+  display: block;
   font-size: 75%;
   font-weight: 100;
   font-style: italic;
@@ -121,7 +128,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .tag-nav a {
-    padding: 0 5px;
+  color: #c0c0c0;
+  padding: 0 5px;
 }
 
 .tag-nav a:hover {
@@ -552,7 +560,7 @@ a.pagination-item:hover {
 
 /* Turn off meta for page2+ to make room for extra
 pagination prev/next links */
-.archive-template .author-profile .author-meta {
+.paged .author-profile .author-meta {
     display: none;
 }
 

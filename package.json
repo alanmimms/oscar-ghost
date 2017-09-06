@@ -1,6 +1,9 @@
 {
-  "name": "oscar-ghost",
-  "author": "Oscar Morrison",
+  "name": "alan-ghost",
   "description":"A clean minimal ghost theme",
-  "version": "1.0.4"
+  "version": "1.0.0",
+  "author": {
+    "name": "Alan Mimms",
+    "email": "alanmimms@gmail.com"
+  }
 }

@@ -1,13 +1,13 @@
-# Oscar for Ghost
-[![Ghost version](https://img.shields.io/badge/ghost-v0.11.3-blue.svg)](https://github.com/tryghost/ghost)      [![Waffle.io](https://img.shields.io/waffle/label/oscarmorrison/oscar-ghost/in%20progress.svg?maxAge=2592000?style=flat-square)](https://waffle.io/oscarmorrison/oscar-ghost) 
+# (Alan's version of) Oscar for Ghost
 
-![Logo](http://blogoscarmorrison.s3.amazonaws.com/2016/12/logo.png)
-
-*Demo:* [blog.oscarmorrison.com](http://blog.oscarmorrison.com)
-
-![ScreenGif](http://blogoscarmorrison.s3.amazonaws.com/2016/Dec/ghostscreencast.gif)
+*Demo:* [alanmimms.com](http://alanmimms.com)
 
 ## Introduction
+I hacked up Oscar's pure work for my own evil designs. Much of what is
+in here was originally written by Oscar to describe his work. I can
+take little credit for anything, but I did find it useful and I did
+make it compatible with Ghost v1.0.
+
 The **Oscar Ghost** Theme is a clean, simple, minimalistic theme built for ghost. The theme is built from an original 
 fork of the [Lanyon-Ghost](https://github.com/PxlBuzzard/lanyon-ghost) Theme. 
 
